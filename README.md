@@ -5,3 +5,4 @@
 3. myatoi function (8)
 4. Bit wise Complement (1009)
 5. Happy Stings (1415)
+6. Valid Knight Move (2596)
