@@ -6,3 +6,4 @@
 4. Bit wise Complement (1009)
 5. Happy Stings (1415)
 6. Valid Knight Move (2596)
+7. Length of Last word (58)
