@@ -8,3 +8,4 @@
 6. Valid Knight Move (2596)
 7. Length of Last word (58)
 8. Set Matrices Zeros (73)
+9. Transpose Matrix (867)
