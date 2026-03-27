@@ -9,3 +9,5 @@
 7. Length of Last word (58)
 8. Set Matrices Zeros (73)
 9. Transpose Matrix (867)
+10. Valid Anargram (242)
+11. 
