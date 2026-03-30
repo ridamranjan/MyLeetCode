@@ -13,3 +13,4 @@
 11. N-Queen (51)
 12. Find The difference (389)
 13. N-Queen II (52)
+14. Power of Two (231)
