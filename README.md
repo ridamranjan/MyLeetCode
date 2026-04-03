@@ -15,3 +15,4 @@
 13. N-Queen II (52)
 14. Power of Two (231)
 15. Keys And Room (841)
+16. Number of 1 Bits (191)
